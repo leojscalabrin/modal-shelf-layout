@@ -1,0 +1,1 @@
+use npm install para baixar as dependências e npm start para rodar o projeto localmente ;)
